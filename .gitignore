@@ -6,3 +6,4 @@
 rpkg/foo*
 large/*
 ml/*
+statcomp_src.Rproj
